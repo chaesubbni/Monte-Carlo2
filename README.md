@@ -4,7 +4,8 @@
 1. 정사각형 안에 무작위 점을 많이 찍고, 그중에서 1/4원 안에 들어간 점의 비율을 센다.
 2. 그 비율에 4를 곱하면 π 근사값이 된다.
 
-<img width="600" height="369" alt="image" src="https://github.com/user-attachments/assets/72c114f4-e6c1-43d0-ba92-9010ee6ae599" /> <img width="660" height="434" alt="image" src="https://github.com/user-attachments/assets/8aa18353-6fb4-4b36-901e-77c5e29d1008" />
+<img width="416" height="256" alt="image" src="https://github.com/user-attachments/assets/01b18845-efac-4f60-8610-26e53a03ad7c" /> <img width="388" height="256" alt="image" src="https://github.com/user-attachments/assets/5e085e1f-6560-4a65-8057-2aabb2925143" />
+
 
 
 
